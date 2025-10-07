@@ -43,7 +43,7 @@ BOT_USERNAME = "имябота"  # без @
 ## 🚀 Запуск
 
 ```bash
-python giveaway_linked_clean.py
+python main.py
 ```
 
 ---
